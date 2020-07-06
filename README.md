@@ -6,8 +6,8 @@ Sources:
 ### Important notes
 - clean and explore data beforehand
 
-### Groups
-**1. Supervised learning**
+### Groups of machine learning
+#### 1. Supervised learning
 - predictive model
 - uses other variables to predict target variable
 - training data includes target values
@@ -19,8 +19,13 @@ Sources:
   b. Classification
   - categorical outcome - binary/ multinomial
   - predict probability of class
+  
+ ##### Modelling machine learning
+ - to determine optimal model
+ - important so that outcomes are valid
+  ![Modelling process flowchart](https://bradleyboehmke.github.io/HOML/images/modeling_process.png)
 
-**2. Unsupervised learning - descriptive model**
+#### 2. Unsupervised learning - descriptive model
 - aims to spot clusters in data
 - often exploratory data analysis
 - not possible to verify prediction
@@ -31,4 +36,4 @@ Sources:
   b. Dimension reduction
   - reduces number of variables
  
-![Modelling process flowchart](https://bradleyboehmke.github.io/HOML/images/modeling_process.png)
+
