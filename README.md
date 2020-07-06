@@ -1,3 +1,6 @@
 ## Machine learning with R
 
-Sources: [Hands-on machine learning with R](https://bradleyboehmke.github.io/HOML/)
+Sources: 
+1. [Hands-on machine learning with R](https://bradleyboehmke.github.io/HOML/)
+
+### R advantages and disadvantages
